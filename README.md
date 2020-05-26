@@ -1,5 +1,11 @@
 # WWH_DesignPattern
 
+>WWH : What Why How
+>
+>通过“是什么，为什么，怎么做”的视角来总结设计模式的学习。
+
+
+
 ### **Quick setup**
 
 1. create a new repository on the command line
